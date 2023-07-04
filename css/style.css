@@ -1,0 +1,27 @@
+.chess-container {
+    aspect-ratio: 1/1;
+    border: 1px solid red;
+    
+}
+
+.chess-square {
+    aspect-ratio: 1/1;
+    border: 1px solid blue;
+    width: calc(100% / 7);
+}
+
+.bg-fizz {
+    background-color: green;
+}
+
+.bg-buzz {
+    background-color: orange;
+}
+
+.bg-fizzbuzz {
+    background-color: crimson;
+}
+
+.bg-number {
+    background-color: cornflowerblue;
+}
